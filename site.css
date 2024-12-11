@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color:aliceblue;
+}
+header{
+    background-color:aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+form{
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color:#d5fff2;
+    border: 1px solid #94fff1;
+    border-radius: 10px;
+}
+div{
+    margin-bottom: 20px;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+  form input[type="text"], 
+  form input[type="number"], 
+  form input[type="email"], 
+  form input[type="password"]{
+    width: 560px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+ form input[type="radio"]{
+    margin-right: 10px;
+}
+  form input[type="checkbox"]{
+    margin-right: 10px;
+}
+.fisico, .cor, .equi, .enviar, .reset{
+    margin-top: 20px;
+}
+footer{
+    padding-left: 10px;
+    color: #333;
+    background-color: rgb(82, 159, 133);
+    text-align: center;
+}

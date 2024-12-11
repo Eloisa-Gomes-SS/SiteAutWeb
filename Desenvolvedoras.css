@@ -1,0 +1,19 @@
+body{
+    padding-left: 35%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.card{
+    background-color: rgb(124, 255, 229);
+    width: 550px;
+    border-radius: 5%;
+    text-align: center;
+    p{
+    margin-bottom: 10px;
+    }
+}
+img{
+    margin: 10px;
+    height: 250px;
+    border-radius: 50%;
+}
