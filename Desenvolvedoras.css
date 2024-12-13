@@ -3,6 +3,11 @@ body{
     margin-top: 15px;
     margin-bottom: 15px;
 }
+header{
+    padding: 20px;
+    text-align: center;
+    max-width: 550px;
+}
 .card{
     background-color: rgb(124, 255, 229);
     width: 550px;
@@ -16,4 +21,11 @@ img{
     margin: 10px;
     height: 250px;
     border-radius: 50%;
+}
+footer{
+    padding-left: 10px;
+    color: #333;
+    background-color: rgb(82, 159, 133);
+    text-align: center;
+    max-width: 550px;
 }
